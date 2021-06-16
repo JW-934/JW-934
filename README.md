@@ -1,5 +1,5 @@
 # Hello, I’m @JW-934
-- I'm currently studying Computer Science at Olympic College (Java at the moment).
+- I'm currently studying Computer Science/Engineering at Washington State University.
 
 
 <!---
