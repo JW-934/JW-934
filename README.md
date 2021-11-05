@@ -1,4 +1,4 @@
-# Hello, I’m Jesse
+# Hello, I’m Jesse.
 - I'm currently studying Computer Engineering at Washington State University.
 
 
