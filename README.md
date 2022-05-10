@@ -1,5 +1,5 @@
 # Hello, I’m Jesse.
-- I'm currently in my second semester of studying Computer Engineering at Washington State University.
+- I'm studying Computer Engineering at Washington State University.
 # Languages: 
 - C/C++ (First year university level)
 - Java (Basic level)
